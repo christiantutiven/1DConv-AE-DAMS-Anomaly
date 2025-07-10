@@ -2,7 +2,7 @@
 
 
 
-Full implementation of a \*\*Siamese Neural Network\*\* model based on \*\*1D-CNN\*\* for anomaly detection in dam structural monitoring data. The approach:
+Full implementation of a \*Siamese Neural Network model based on 1D-CNN\* for anomaly detection in dam structural monitoring data. The approach:
 
 
 
@@ -52,7 +52,7 @@ Implementation of a Siamese network based on Conv1D layers to extract temporal p
 
 Calculation of classic metrics (accuracy, precision, recall, F1) and analysis of the ROC and AUC curves on unseen data.
 
-\## Notebooks
+# Notebooks
 
 
 
@@ -66,7 +66,7 @@ Calculation of classic metrics (accuracy, precision, recall, F1) and analysis of
 
 
 
-\## Dependencies
+# Dependencies
 
 
 
@@ -168,7 +168,7 @@ jupyter notebook
 
 
 
-\- \*\*Christian Tutivén\*\* – cjtutive@espol.edu.ec
+\- \*Christian Tutivén\* – cjtutive@espol.edu.ec
 
 
 
