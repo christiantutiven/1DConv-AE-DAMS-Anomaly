@@ -22,7 +22,7 @@ This repository includes a series of Jupyter notebooks that implement and evalua
 
 
 
-\## Description
+# Description
 
 
 
@@ -100,7 +100,7 @@ pip install -r requirements.txt
 
 
 
-\## Repository structure
+# Repository structure
 
 
 
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 
 
-\## Usage
+# Usage
 
 
 
@@ -164,7 +164,7 @@ jupyter notebook
 
 
 
-\## Authors
+# Authors
 
 
 
@@ -172,7 +172,7 @@ jupyter notebook
 
 
 
-\## License
+# License
 
 
 
